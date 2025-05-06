@@ -6,7 +6,7 @@ import Extraction from "../../assets/extraction.png";
 import Context from "../../assets/Context.jpg";
 import Example from "../../assets/Example.jpg";
 import Usecases from "./Usecases";
-
+import GrowingPlant from "../GrwoingPlant";
 const Home = () => {
   return (
     <>
@@ -118,6 +118,9 @@ const Home = () => {
         </div>
       </div>
     </>
+    // <>
+    // <GrowingPlant />
+    // </>
   );
 };
 
